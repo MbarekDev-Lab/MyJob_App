@@ -8,7 +8,7 @@ const JobColumns = () => {
       <span>company</span>
       <span>date</span>
       <span>status</span>
-      <span className="action">action</span>
+      <span className="action">action:</span>
     </Wrapper>
   );
 };
